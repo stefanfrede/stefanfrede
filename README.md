@@ -13,7 +13,7 @@ I use the [Jamstack](https://jamstack.org/) to build websites, because it provid
 
 Since 2004 I have been working in this business.
 
-### My skills and experience include:
+### My skills and experience include
 
 + HTML and (S)CSS
 + Responsive Web Design
@@ -24,6 +24,18 @@ Since 2004 I have been working in this business.
 + Redux and Redux-Saga
 + Webpack, Git, and Continuous Integration
 + Docker
+
+### How to reach me
+
+Ehrenbergstraße 16a  
+Scanbox #03611  
+10245 Berlin  
+Germany
+
+📞: +49-2051-4057910  
+📠: +49-2051-3254994  
+📧: contact@frede.io  
+💻: https://www.frede.io/
 
 <!--
 **stefanfrede/stefanfrede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
