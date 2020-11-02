@@ -19,7 +19,7 @@ Since 2004 I have been working in this business.
 + Responsive Web Design
 + Accessibility and Progressive Enhancement
 + Vanilla JavaScript
-+ Web Components, LitElement, and lit-html
++ Web Components, LitElement, and Vue
 + Jest, Mocha, and Chai
 + Redux and Redux-Saga
 + Webpack, Git, and Continuous Integration
