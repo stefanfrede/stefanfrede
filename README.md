@@ -34,7 +34,7 @@ Germany
 
 📞: +49-2051-4057910  
 📠: +49-2051-3254994  
-📧: contact@frede.io  
+📧: stefan@frede.io  
 💻: https://www.frede.io/
 
 <!--
