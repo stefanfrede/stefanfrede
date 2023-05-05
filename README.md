@@ -19,10 +19,10 @@ Since 2004 I have been working in this business.
 + Responsive Web Design
 + Accessibility and Progressive Enhancement
 + Vanilla JavaScript
-+ Web Components, LitElement, and Vue
++ Web Components & LitElement
++ Vue.js & Nuxt
 + Jest, Mocha, and Chai
-+ Redux and Redux-Saga
-+ Webpack, Git, and Continuous Integration
++ Vite, Git, and Continuous Integration
 + Docker
 
 ### How to reach me
@@ -32,10 +32,8 @@ Scanbox #03611
 10245 Berlin  
 Germany
 
-📞: +49-2051-4057910  
-📠: +49-2051-3254994  
-📧: stefan@frede.io  
-💻: https://www.frede.io/
+📧: github.pfze6@slmail.me
+💻: https://www.frede.dev/
 
 <!--
 **stefanfrede/stefanfrede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
