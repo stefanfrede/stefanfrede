@@ -32,7 +32,7 @@ Scanbox #03611
 10245 Berlin  
 Germany
 
-📧: github.pfze6@slmail.me
+📧: github.pfze6@slmail.me  
 💻: https://www.frede.dev/
 
 <!--
