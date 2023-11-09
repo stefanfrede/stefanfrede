@@ -9,8 +9,6 @@ The web has come a long way. Features that used to require libraries or framewor
 
 Such an approach keeps the codebase small, avoids bugs, and improves the performance.
 
-I use the [Jamstack](https://jamstack.org/) to build websites, because it provides better performance, higher security as well as easier and cheaper scaling.
-
 Since 2004 I have been working in this business.
 
 ### My skills and experience include
@@ -19,7 +17,7 @@ Since 2004 I have been working in this business.
 + Responsive Web Design
 + Accessibility and Progressive Enhancement
 + Vanilla JavaScript
-+ Web Components & LitElement
++ Web Components & Lit
 + Vue.js & Nuxt
 + Jest, Mocha, and Chai
 + Vite, Git, and Continuous Integration
@@ -34,6 +32,8 @@ Germany
 
 📧: github.pfze6@slmail.me  
 💻: https://www.frede.dev/
+
+👋: <a rel="me" href="https://mastodon.social/@stefanfrede">Mastodon</a>
 
 <!--
 **stefanfrede/stefanfrede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
