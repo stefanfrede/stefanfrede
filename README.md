@@ -1,27 +1,27 @@
 ### Hi 👋
 
-I’m Stefan, a front-end developer from Germany.
+I am Stefan, a front-end developer from Germany.
 
-My focus is on HTML, CSS, Accessibility and Progressive Enhancement.  
-When I use JavaScript, I like to limit myself to browser APIs whenever possible.
+My focus is on HTML, CSS, accessibility, and progressive enhancement.
 
-The web has come a long way. Features that used to require libraries or frameworks can now easily be implemented using vanilla JavaScript.
+When I use JavaScript, I prefer to limit myself to browser APIs whenever possible.
 
-Such an approach keeps the codebase small, avoids bugs, and improves the performance.
+The web has made significant progress. Features that previously required libraries or frameworks can now be easily implemented using vanilla JavaScript.
 
-Since 2004 I have been working in this business.
+This approach has several benefits: it keeps the codebase small, avoids bugs, and improves performance.
+
+I have been working in this business since 2004.
 
 ### My skills and experience include
 
-+ HTML and (S)CSS
++ HTML and CSS
 + Responsive Web Design
 + Accessibility and Progressive Enhancement
 + Vanilla JavaScript
 + Web Components & Lit
-+ Vue.js & Nuxt
-+ Jest, Mocha, and Chai
-+ Vite, Git, and Continuous Integration
-+ Docker
++ Vue.js and Nuxt
++ Pinia and Vite
++ Docker and Git
 
 ### How to reach me
 
@@ -31,9 +31,8 @@ Scanbox #03611
 Germany
 
 📧: github.pfze6@slmail.me  
-💻: https://www.frede.dev/
-
-👋: <a rel="me" href="https://mastodon.social/@stefanfrede">Mastodon</a>
+💻: https://www.frede.dev/  
+💬: <a rel="me" href="https://mastodon.social/@stefanfrede">Mastodon</a>
 
 <!--
 **stefanfrede/stefanfrede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
