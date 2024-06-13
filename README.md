@@ -20,7 +20,6 @@ I have been working in this business since 2004.
 + Vanilla JavaScript
 + Web Components & Lit
 + Vue.js and Nuxt
-+ Pinia and Vite
 + Docker and Git
 
 ### How to reach me
