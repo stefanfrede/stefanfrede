@@ -30,6 +30,7 @@ Scanbox #03611
 Germany
  
 💻: https://www.frede.dev/  
+💽: https://codeberg.org/stefanfrede  
 💬: <a rel="me" href="https://mastodon.social/@stefanfrede">Mastodon</a>
 
 <!--
