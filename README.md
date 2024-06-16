@@ -29,8 +29,8 @@ Scanbox #03611
 10245 Berlin  
 Germany
  
-💻: https://www.frede.dev/  
-💽: https://codeberg.org/stefanfrede  
+💻: <a href="https://www.frede.dev/">Website</a>  
+💽: <a href="https://codeberg.org/stefanfrede">Codeberg</a>  
 💬: <a rel="me" href="https://mastodon.social/@stefanfrede">Mastodon</a>
 
 <!--
