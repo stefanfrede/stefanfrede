@@ -4,7 +4,7 @@ I am Stefan, a front-end developer from Germany.
 
 My focus is on HTML, CSS, accessibility, and progressive enhancement.
 
-When I use JavaScript, I prefer to limit myself to browser APIs whenever possible.
+I avoid JavaScript as much as possible. The rapid improvements in CSS over the last few years have been a great help, but when I do use JavaScript, I stick to browser APIs.
 
 The web has made significant progress. Features that previously required libraries or frameworks can now be easily implemented using vanilla JavaScript.
 
