@@ -14,13 +14,13 @@ I have been working in this business since 2004.
 
 ### My skills and experience include
 
-+ HTML and CSS
++ HTML & CSS
++ Accessibility & Progressive Enhancement
 + Responsive Web Design
-+ Accessibility and Progressive Enhancement
-+ Vanilla JavaScript
-+ Web Components & Lit
-+ Vue.js and Nuxt
-+ Docker and Git
++ JavaScript & TypeScript
++ Vanilla Web Components & Lit
++ Vue.js & Nuxt
++ Docker & Git
 
 ### How to reach me
 
