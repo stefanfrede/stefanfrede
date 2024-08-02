@@ -18,7 +18,7 @@ I have been working in this business since 2004.
 + Accessibility & Progressive Enhancement
 + Responsive Web Design
 + JavaScript & TypeScript
-+ Vanilla Web Components & Lit
++ Web Components & Lit
 + Vue.js & Nuxt
 + Docker & Git
 
