@@ -1,16 +1,16 @@
 ### Hi 👋
 
-I am Stefan, a front-end developer from Germany.
+I’m Stefan, a front-end developer from Hamburg, Germany.
 
-My focus is on HTML, CSS, accessibility, and progressive enhancement.
+My focus is on HTML, CSS, Accessibility and Progressive Enhancement.
 
-I avoid JavaScript as much as possible. The rapid improvements in CSS over the last few years have been a great help, but when I do use JavaScript, I stick to browser APIs.
+I try to avoid JavaScript, but when I do use it, I like to stick to browser APIs whenever possible.
 
-The web has made significant progress. Features that previously required libraries or frameworks can now be easily implemented using vanilla JavaScript.
+The web has come a long way and features that used to require libraries or frameworks can now easily be implemented using vanilla JavaScript.
 
-This approach has several benefits: it keeps the codebase small, avoids bugs, and improves performance.
+Such an approach keeps the codebase small, avoids bugs, and improves the performance.
 
-I have been working in this business since 2004.
+I have been working in this business since 2003.
 
 ### My skills and experience include
 
