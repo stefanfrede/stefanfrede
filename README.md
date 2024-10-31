@@ -31,7 +31,7 @@ Germany
  
 💻: <a href="https://www.frede.dev/">Website</a>  
 💽: <a href="https://codeberg.org/stefanfrede">Codeberg</a>  
-📫: <a href="https://www.linkedin.com/in/stefanfrede">LinkedIn</a> 
+📫: <a href="https://www.linkedin.com/in/stefanfrede">LinkedIn</a>  
 📫: <a href="https://www.xing.com/profile/Stefan_Frede2">Xing</a>  
 📫: <a rel="me" href="https://mastodon.social/@stefanfrede">Mastodon</a>
 
