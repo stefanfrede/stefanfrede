@@ -4,9 +4,9 @@ I’m Stefan, a front-end developer from Hamburg, Germany.
 
 My focus is on HTML, CSS, Accessibility and Progressive Enhancement.
 
-I try to avoid JavaScript, but when I do use it, I like to stick to browser APIs whenever possible.
+I try to avoid JavaScript in favour of modern CSS, but when I do use it, I like to stick to browser APIs whenever possible
 
-The web has come a long way and features that used to require libraries or frameworks can now easily be implemented using vanilla JavaScript.
+The web has come a long way and features that used to require libraries or frameworks can now easily be implemented using CSS and vanilla JavaScript.
 
 Such an approach keeps the codebase small, avoids bugs, and improves the performance.
 
@@ -31,8 +31,9 @@ Germany
  
 💻: <a href="https://www.frede.dev/">Website</a>  
 💽: <a href="https://codeberg.org/stefanfrede">Codeberg</a>  
-💬: <a href="https://www.xing.com/profile/Stefan_Frede2">Xing</a>  
-💬: <a rel="me" href="https://mastodon.social/@stefanfrede">Mastodon</a>
+📫: <a href="https://www.linkedin.com/in/stefanfrede">LinkedIn</a> 
+📫: <a href="https://www.xing.com/profile/Stefan_Frede2">Xing</a>  
+📫: <a rel="me" href="https://mastodon.social/@stefanfrede">Mastodon</a>
 
 <!--
 **stefanfrede/stefanfrede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
