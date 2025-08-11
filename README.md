@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I’m Stefan, a front-end developer from Hamburg, Germany.
+I’m Stefan, a front-end developer based in Hamburg, Germany.
 
 My focus is on HTML, CSS, Accessibility and Progressive Enhancement.
 
