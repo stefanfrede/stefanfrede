@@ -24,7 +24,8 @@ I have been working in the industry since 2003, primarily as a freelancer and mo
 + JavaScript & TypeScript
 + Web Components & Lit
 + Vue.js & Nuxt
-+ Docker & Git
++ Docker & Podman
++ Git & DevOps
 
 ### How to reach me
 
