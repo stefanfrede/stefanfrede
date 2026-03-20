@@ -1,16 +1,20 @@
+**You can find my repositories at:**  
+https://codeberg.org/stefanfrede/  
+https://git.frede.dev/stefanfrede/
+
 ### Hi 👋
 
 I’m Stefan, a front-end developer based in Hamburg, Germany.
 
 My focus is on HTML, CSS, Accessibility and Progressive Enhancement.
 
-I try to avoid JavaScript in favour of modern CSS, but when I do use it, I like to stick to browser APIs whenever possible
+I try to avoid JavaScript in favour of modern CSS, but when I do use it, I like to stick to the platform whenever possible.
 
 The web has come a long way and features that used to require libraries or frameworks can now easily be implemented using CSS and vanilla JavaScript.
 
 Such an approach keeps the codebase small, avoids bugs, and improves the performance.
 
-I have been working in this business since 2003.
+I have been working in the industry since 2003, primarily as a freelancer and mostly working remotely.
 
 ### My skills and experience include
 
