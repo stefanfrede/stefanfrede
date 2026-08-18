@@ -18,14 +18,15 @@ I have been working in the industry since 2003, primarily as a freelancer and mo
 
 ### My skills and experience include
 
-+ HTML & CSS
-+ Accessibility & Progressive Enhancement
-+ Responsive Web Design
-+ JavaScript & TypeScript
-+ Web Components & Lit
-+ Vue.js & Nuxt
-+ Docker & Podman
-+ Git & DevOps
+- HTML & CSS
+- Accessibility & Progressive Enhancement
+- Responsive Web Design
+- JavaScript & TypeScript
+- Web Components & Lit
+- Vue.js & Nuxt
+- Podman & Docker
+- Git & DevOps
+- Penpot & UX/UI
 
 ### How to reach me
 
