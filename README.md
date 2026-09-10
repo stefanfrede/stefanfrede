@@ -26,7 +26,7 @@ I have been working in the industry since 2003, primarily as a freelancer and mo
 - Accessibility & Progressive Enhancement
 - Responsive Web Design
 - Podman & Docker
-- Git & DevOps
+- Git & GitOps
 - Testing with Mocha & Chai
 
 ### How to reach me
